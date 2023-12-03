@@ -7,10 +7,21 @@
 	clear: both;
 }
 
-/* Pagina 1 */
+/* Navegação */
 .logo{
 	background: url('../img/logo.png') no-repeat top center;
 	background-size: 150px;
 	width: 150px;
 	height: 50px;
+	align-items: ;
+}
+
+/* Caixa */
+.caixa{
+	text-align: center;
+	width: 300px;
+}
+
+section{
+	height: auto;
 }
